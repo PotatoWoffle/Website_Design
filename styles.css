@@ -1,0 +1,103 @@
+body{
+  font-family:'Open Sans', sans-serif;
+  margin: 0;
+}
+
+.container{
+  //border: 2px dotted gray;
+  padding: 10px;
+  margin: 10px auto;
+
+}
+.font-container{
+}
+
+.color-container{
+  width: 100%
+}
+
+.color-panel{
+  
+  width: 40%
+  text-align:center;
+  margin: 20px auto;
+  min-height: 100px;
+
+}
+
+.queen-pink{
+  background-color:#D6C3C9;
+
+}
+
+.beaver{
+  background-color: #B49082;
+
+}
+
+.chestnut{
+  background-color: #98473E;
+
+}
+
+.metallic-sunburst{
+  background-color: #A37C40;
+
+}
+
+.rich-black{
+  background-color: #07090F;
+  color:white;
+}
+
+.font-panel{
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label{
+  font-size: 20px;
+  text-decoration: underline dotted;
+}
+
+.regular{
+  font-style: normal;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.source-code-pro{
+  font-family: 'Source Code Pro', monospace;
+}
+
+.open-sans{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.pt-sans{
+  font-family:'PT Sans', sans-serif;
+}
+
+.text-panel h1{
+  font-weight:700;
+  font-size: 28px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.text-panel h2{
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.text-panel p{
+  font-weight:400;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
